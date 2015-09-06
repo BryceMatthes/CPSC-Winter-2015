@@ -1,0 +1,10 @@
+-bash-4.2$ java A2 a1a2
+The seed argument has to be an integer number.
+-bash-4.2$ java A2 1 2
+Usage: java Game <seed>
+-bash-4.2$ java A2 5786
+Using the seed 5786.
+
+You can play this game in interactive or automated mode.
+Enter `i' for interactive or `a' for automated mode: 
+

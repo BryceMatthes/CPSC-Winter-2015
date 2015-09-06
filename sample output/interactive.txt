@@ -1,0 +1,237 @@
+-bash-4.2$ java A2 
+Using the default seed 1234.
+
+You can play this game in interactive or automated mode.
+Enter `i' for interactive or `a' for automated mode: i
+Game Started ...
+
+[1] ComputerScore = 0  HumanScore = 0
+         H: dice = 3  points = 3
+         H: (r)un or (h)old? h
+
+[2] ComputerScore = 0  HumanScore = 3
+         C: dice = 6  points = 6
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 12
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 13
+
+[3] ComputerScore = 0  HumanScore = 3
+         H: dice = 3  points = 3
+         H: (r)un or (h)old? h
+
+[4] ComputerScore = 0  HumanScore = 6
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 6
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 8
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 12
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 14
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 19
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 22
+         C: (r)un or (h)old? h
+
+[5] ComputerScore = 22  HumanScore = 6
+         H: dice = 6  points = 6
+         H: (r)un or (h)old? h
+
+[6] ComputerScore = 22  HumanScore = 12
+         C: dice = 5  points = 5
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 11
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 12
+
+[7] ComputerScore = 22  HumanScore = 12
+         H: dice = 5  points = 5
+         H: (r)un or (h)old? h
+
+[8] ComputerScore = 22  HumanScore = 17
+         C: dice = 1  points = 1
+
+[9] ComputerScore = 22  HumanScore = 17
+         H: dice = 2  points = 2
+         H: (r)un or (h)old? h
+
+[10] ComputerScore = 22  HumanScore = 19
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 7
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 11
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 12
+
+[11] ComputerScore = 22  HumanScore = 19
+         H: dice = 1  points = 1
+
+[12] ComputerScore = 22  HumanScore = 19
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 10
+
+[13] ComputerScore = 22  HumanScore = 19
+         H: dice = 2  points = 2
+         H: (r)un or (h)old? h
+
+[14] ComputerScore = 22  HumanScore = 21
+         C: dice = 1  points = 1
+
+[15] ComputerScore = 22  HumanScore = 21
+         H: dice = 1  points = 1
+
+[16] ComputerScore = 22  HumanScore = 21
+         C: dice = 5  points = 5
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 10
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 11
+
+[17] ComputerScore = 22  HumanScore = 21
+         H: dice = 5  points = 5
+         H: (r)un or (h)old? h
+
+[18] ComputerScore = 22  HumanScore = 26
+         C: dice = 5  points = 5
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 12
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 16
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 22
+         C: (r)un or (h)old? h
+
+[19] ComputerScore = 44  HumanScore = 26
+         H: dice = 4  points = 4
+         H: (r)un or (h)old? h
+
+[20] ComputerScore = 44  HumanScore = 30
+         C: dice = 3  points = 3
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 8
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 12
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 17
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 19
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 22
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 23
+
+[21] ComputerScore = 44  HumanScore = 30
+         H: dice = 3  points = 3
+         H: (r)un or (h)old? h
+
+[22] ComputerScore = 44  HumanScore = 33
+         C: dice = 3  points = 3
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 12
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 15
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 16
+
+[23] ComputerScore = 44  HumanScore = 33
+         H: dice = 5  points = 5
+         H: (r)un or (h)old? h
+
+[24] ComputerScore = 44  HumanScore = 38
+         C: dice = 1  points = 1
+
+[25] ComputerScore = 44  HumanScore = 38
+         H: dice = 3  points = 3
+         H: (r)un or (h)old? h
+
+[26] ComputerScore = 44  HumanScore = 41
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 5
+
+[27] ComputerScore = 44  HumanScore = 41
+         H: dice = 4  points = 4
+         H: (r)un or (h)old? h
+
+[28] ComputerScore = 44  HumanScore = 45
+         C: dice = 3  points = 3
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 7
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 13
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 15
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 16
+
+[29] ComputerScore = 44  HumanScore = 45
+         H: dice = 3  points = 3
+         H: (r)un or (h)old? h
+
+[30] ComputerScore = 44  HumanScore = 48
+         C: dice = 6  points = 6
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 13
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 16
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 21
+         C: (r)un or (h)old? h
+
+[31] ComputerScore = 65  HumanScore = 48
+         H: dice = 1  points = 1
+
+[32] ComputerScore = 65  HumanScore = 48
+         C: dice = 6  points = 6
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 8
+         C: (r)un or (h)old? r
+         C: dice = 1  points = 9
+
+[33] ComputerScore = 65  HumanScore = 48
+         H: dice = 6  points = 6
+         H: (r)un or (h)old? h
+
+[34] ComputerScore = 65  HumanScore = 54
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 5  points = 9
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 15
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 17
+         C: (r)un or (h)old? r
+         C: dice = 3  points = 20
+         C: (r)un or (h)old? r
+         C: dice = 4  points = 24
+         C: (r)un or (h)old? h
+
+[35] ComputerScore = 89  HumanScore = 54
+         H: dice = 5  points = 5
+         H: (r)un or (h)old? h
+
+[36] ComputerScore = 89  HumanScore = 59
+         C: dice = 4  points = 4
+         C: (r)un or (h)old? r
+         C: dice = 6  points = 10
+         C: (r)un or (h)old? r
+         C: dice = 2  points = 12
+
+Game is over, computer player wins with the score 101!!
+-bash-4.2$ 
+
